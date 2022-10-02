@@ -1,0 +1,12 @@
+.cart{
+    padding-left: 20px;
+}
+button{
+    background-color:greenyellow;
+    font-size: 20px;
+    padding: 5px 10px;
+    margin: auto;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
